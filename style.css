@@ -2,3 +2,7 @@ body {
     font-family: monospace;
     text-align: center;
 }
+
+span.small {
+  font-size: smaller;
+}

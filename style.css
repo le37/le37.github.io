@@ -6,3 +6,8 @@ body {
 span.small {
   font-size: smaller;
 }
+
+img {
+    padding: 5px;
+    width: 100%;
+}
